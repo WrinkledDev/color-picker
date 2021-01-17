@@ -13,5 +13,6 @@
 }
 
 .selected-color {
+  -webkit-text-stroke: 2px #5f5e5e;
   font-size: 10em;
 }
